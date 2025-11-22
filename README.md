@@ -8,9 +8,10 @@ The objective of this project was to examine student responses, identify **corre
 
 This project focuses on analyzing a Student Feedback dataset to uncover insights related to teaching effectiveness, course structuring, student satisfaction, and overall learning experience.
 Using Python and data visualization techniques, the analysis provides a clear understanding of how different feedback parameters correlate and contribute to the final satisfaction scores.
+
 ---
 
-#🎯 Objectives
+# 🎯 Objectives
 
 ✔️ Load, clean, and preprocess raw student feedback data
 
@@ -23,6 +24,7 @@ Using Python and data visualization techniques, the analysis provides a clear un
 ✔️ Present data-driven recommendations for academic improvements
 
 ---
+
 # 🗂️ Dataset Description
 
 The dataset includes multiple feedback-related fields such as:
